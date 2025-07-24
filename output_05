@@ -1,0 +1,18 @@
+= Accident Summary =
+
+Accidents by Time of Day:
+Morning: 2
+Evening: 1
+Night: 2
+Afternoon: 1
+
+Accidents by Weather Condition:
+Clear: 2
+Rain: 3
+Foggy: 1
+
+Accidents by Road Condition:
+Dry: 2
+Wet: 4
+
+Data exported to: accident_summary.csv
