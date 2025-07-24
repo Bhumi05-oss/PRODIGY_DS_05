@@ -1,0 +1,7 @@
+TimeOfDay,WeatherCondition,RoadCondition
+Morning,Clear,Dry
+Evening,Rain,Wet
+Night,Foggy,Wet
+Morning,Clear,Dry
+Afternoon,Rain,Wet
+Night,Rain,Wet
